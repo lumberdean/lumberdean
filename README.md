@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=lumberdean&color=blue)
+
 ## $${\color{blue}HELLO!!}$$ $${\color{blue}IM}$$ $${\color{blue}DEAN!!}$$
 <!--
 **lumberdean/lumberdean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
