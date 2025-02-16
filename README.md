@@ -1,7 +1,7 @@
 ## HELLO!!! IM DEAN!!
 <!--
 **lumberdean/lumberdean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-! [lala!] (https://external-media.spacehey.net/media/s_DymF5ElowmrQ70ZIV4VvzvwsNS6uUfLciDwNIp3oIM=/https://i4.glitter-graphics.org/pub/1376/1376114x1bq9llb88.jpg)
+![github-small](https://external-media.spacehey.net/media/s_DymF5ElowmrQ70ZIV4VvzvwsNS6uUfLciDwNIp3oIM=/https://i4.glitter-graphics.org/pub/1376/1376114x1bq9llb88.jpg)
 
 Here are some ideas to get you started:
 
