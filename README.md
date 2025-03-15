@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 -->
 
 ![image](https://64.media.tumblr.com/371f3b4ae166d701d8b604ed75d10016/087367c5945f7043-d2/s640x960/870f8959a67612541a2f39ee5d61faceb890f0b7.gif)
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31waoinuetthfmranoyj6kxp3bly&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31waoinuetthfmranoyj6kxp3bly&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=0a6080&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 ## $${\color{lightblue}CHECK}$$ $${\color{lightblue}MY}$$ $${\color{lightblue}LINKS}$$ $${\color{lightblue}FOR}$$ $${\color{lightblue}MORE}$$ $${\color{lightblue}ABOUT}$$ $${\color{lightblue}ME!!!}$$
