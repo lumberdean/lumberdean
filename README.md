@@ -1,4 +1,4 @@
-  ----------------------------------------- [spn ships opinion](https://blog.spacehey.com/entry?id=1512568) ; [strawpage](https://lumberdean.straw.page) ; [spacehey](https://spacehey.com/lumberdean) ; [pronouns cc](https://pronouns.cc/@LumberDean) -----------------------------------------
+---------------------------------------------- [spn ships opinion](https://blog.spacehey.com/entry?id=1512568) ; [strawpage](https://lumberdean.straw.page) ; [spacehey](https://spacehey.com/lumberdean) ; [pronouns cc](https://pronouns.cc/@LumberDean) ----------------------------------------------
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=lumberdean&color=617f89&label=♡">
