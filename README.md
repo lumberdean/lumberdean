@@ -8,9 +8,9 @@
 hihi im dean!!
 
 
-![tumblr_fa9f3a1106c32ef76a6f962df92d694a_c3a80134_540](https://github.com/user-attachments/assets/a73db2cb-4d15-471b-b14c-91a940b4202a)
-
-
+  <p align="center">
+     <img src="https://github.com/user-attachments/assets/a73db2cb-4d15-471b-b14c-91a940b4202a" />
+   </p>
 
 
 <p align="center">
