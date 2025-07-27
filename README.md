@@ -8,8 +8,9 @@
 hihi im dean!!
 
 
+
   <p align="center">
-     <img src="https://github.com/user-attachments/assets/3c0dadf3-6a5d-46f2-a561-d526874bdec1" />
+     <img src="https://github.com/user-attachments/assets/61c6058e-8884-49f8-ac14-5622bb64c5ec" />
    </p>
 
 
