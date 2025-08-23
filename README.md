@@ -10,7 +10,7 @@ hihi im dean!!
 
 
   <p align="center">
-     <img src="https://github.com/user-attachments/assets/61c6058e-8884-49f8-ac14-5622bb64c5ec" />
+     <img src="https://github.com/user-attachments/assets/184077a7-6d8b-4aee-a91a-cae328365eda" />
    </p>
 
 
