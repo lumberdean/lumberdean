@@ -5,7 +5,7 @@
 </p>
   
 <p align="center">
-hihi im dean!!
+"Chris, you make me proud, but of course you are one of my men."
 
 
 
