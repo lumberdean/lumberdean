@@ -10,9 +10,8 @@
 
 
   <p align="center">
-     <img src="https://github.com/user-attachments/assets/184077a7-6d8b-4aee-a91a-cae328365eda" />
+     <img src="https://github.com/user-attachments/assets/917d23e0-b4ef-4a44-b5a4-dca7da37954b" />
    </p>
-
 
 <p align="center">
 check my links to find out more abt me!!
